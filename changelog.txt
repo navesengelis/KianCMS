@@ -1,0 +1,8 @@
+-0.21-
+Security update for registration (Tested and should be working)
+Paging system implemented
+Fixed includes
+Changelog started
+Added <!DOCTYPE html> to beginning of page..
+Fixed some styling that was wrong
+Fixed the config installer, pulling data from wrong domain
